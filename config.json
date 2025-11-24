@@ -1,0 +1,198 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#33353D",
+            "lang-select-color": "#222829",
+            "bg-light": "#0d0c0c",
+            "welcome-bonus-bg": "#3C3F48",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#373A43",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#86FEA2",
+            "text-head": "#0d0d0d",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#86FEA2",
+            "yellow": "#E30E0F",
+            "yellow-button": "#86FEA2",
+            "button-text": "#121111",
+            "main-button-text": "#121111",
+            "border-color": "#efefdc",
+            "casino-cards": "#585b65",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#585b65",
+            "faq-label": "#585b65",
+            "bg-footer": "#0d0c0c",
+            "copyright": "#e7e7d5",
+            "starColor": "#E30E0F",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "SupaBet",
+            "title": "SupaBet Casino \u2013 Top Games, Bonuses, and Fast Payouts",
+            "description": "Discover the world of gaming with SupaBet: slots, live casino, tournaments, and generous bonuses. Fast withdrawals, secure transactions, and 24\/7 support.\n",
+            "canonical": "supabets-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/678",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "supabets-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/679",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/680"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/683",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "SupaBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Play and Win at SupaBet Online Casino",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/684",
+            "imageSizeModifier": 10,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/685",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Legal and safe casino",
+                "Live casino with professional dealers.",
+                "Huge selection of slots and table games.",
+                "Progressive jackpots and exciting tournaments.",
+                "Sports betting and esports on one platform.",
+                "Convenient payments, including cryptocurrency.",
+                "Welcome bonus up to \u20ac500 + 200 free spins.",
+                "Mobile-friendly site without app download."
+            ],
+            "advantagesAfterText": "SupaBet combines casino gaming and sportsbook in one place, offering thousands of games and betting options. Its user-friendly interface, crypto support, and generous bonuses make it a top choice for players worldwide.\n",
+            "knowMore": "Know more",
+            "appTitle": "SupaBet App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/686",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "SupaBet App",
+            "mobileGooglePlayImageTitle": "SupaBet App",
+            "mobileIosImageTitle": "SupaBet App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About SupaBet",
+                "description1": "",
+                "items": [
+                    "Bonus up to \u20ac500 + 200 free spins",
+                    "Progressive jackpots up to \u20ac1,000,000",
+                    "High odds on sports betting"
+                ],
+                "description2": "SupaBet is a modern platform for gaming and betting. It combines casino, slots, and sports events in one place. Users can enjoy a wide variety of games from top providers. The live casino creates an authentic gaming atmosphere. Its user-friendly interface ensures easy navigation and quick access to features. The platform supports secure and fast payments. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/687",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "A mobile-friendly version allows seamless play anywhere. SupaBet offers regular promotions and bonus programs. High-level security guarantees data protection. It is the perfect choice for those who value comfort and reliability."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "SupaBet \u2014 a world of gaming opportunities",
+                "description": "<p>\nSupaBet is a modern platform that combines casino gaming and sports betting in one convenient space. It offers entertainment for every taste, from classic slots to dynamic table games and thrilling sports events.\n\n<\/p>\n<br>\n<p>\nThe gaming section of SupaBet impresses with its variety. Users can enjoy vibrant slots, try their luck at roulette or blackjack, and experience the atmosphere of a real casino through live dealer games. This format makes the process as realistic and engaging as possible.\n\n<\/p>\n<br>\n<p>\nFor sports enthusiasts, SupaBet provides extensive betting options on popular events. The platform supports both traditional sports and esports, allowing everyone to find the perfect match. High odds and a user-friendly interface make betting simple and rewarding.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to security and player comfort. All transactions are protected by advanced technologies, and the mobile-friendly version of the site allows seamless play and betting anywhere without limitations.\n\n<\/p>\n<br>\n<p>\nSupaBet is more than just a casino \u2014 it\u2019s a complete world of gaming entertainment where reliability, convenience, and excitement come together. Here, every player can test their luck and enjoy an unforgettable experience.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Supported Currencies at SupaBet\n\n<\/h3>\n\n<p>\nSupaBet offers a wide range of payment options to make deposits and withdrawals as convenient as possible for its players. The platform supports both traditional banking methods and modern digital solutions, including cryptocurrencies. This flexibility allows every user to choose the most suitable transaction method based on personal preferences.\n\n<\/p>\n<br>\n<p>\nFor deposits, players can use Visa and MasterCard credit or debit cards, as well as popular e-wallets like Skrill, Neteller, and MiFinity. Additionally, SupaBet integrates innovative payment systems such as Jeton, Paysafecard, and Interac. Instant transfer solutions like Zimpler and Siru Mobile are also available for those who value speed.\n\n<\/p>\n<br>\n<p>\nCryptocurrency payments are a key feature of SupaBet. The platform accepts Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Tether, and other digital assets. This makes SupaBet an attractive choice for players who prioritize anonymity and fast transactions.\n\n<\/p>\n<br>\n<p>\nWhen it comes to currencies, SupaBet supports a broad selection, including euros, US dollars, Canadian dollars, Australian dollars, and various European and Latin American currencies. Crypto-based transactions are also available, offering additional flexibility for international users.\n\n<\/p>\n<br>\n<p>\nWith such a diverse range of payment methods and currencies, SupaBet ensures convenience and security for players worldwide. Whether you prefer traditional bank transfers or cutting-edge digital solutions, the platform guarantees smooth and reliable transactions every time.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino SupaBet Rules: Conditions and Restrictions\n<\/h3>\n\n<p>\nVisiting SupaBet casino requires compliance with specific rules designed to ensure safety and comfort for all guests. The primary condition is meeting the legal age requirement, as access is granted only to adult users. Before starting to play, users must complete registration and verify their identity to prevent fraud.\n\n<\/p>\n<br>\n<p>\nThe casino enforces a strict responsible gaming policy, which means using third-party software or attempting to cheat is prohibited. Aggressive behavior, disorderly conduct, and offensive language are also not allowed. All financial transactions must be processed through official payment methods, and withdrawals can only be made to registered accounts.\n\n<\/p>\n<br>\n<p>\nThe administration reserves the right to refuse service in case of rule violations. Players are expected to respect staff and fellow visitors to maintain a friendly atmosphere. Following these conditions guarantees a safe and enjoyable gaming experience.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Conditions for visiting\n<\/h4>\n            <ul>\n            <li>\u2022 \nMeeting the legal age requirement (18+ or 21+).\n\n<\/li>\n            <li>\u2022 \nRegistration and identity verification.\n\n<\/li>\n            <li>\u2022 \nUse of official payment methods.\n\n\n\n<\/li>\n        <\/ul>\n        <br>\n        \n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Prohibited<\/h4>\n\n\n        <ul>\n            <li>\u2022 \nFraud and use of third-party software.\n\n<\/li>\n            <li>\u2022 \nAggressive behavior and insults.\n\n<\/li>\n            <li>\u2022 \nViolation of responsible gaming rules.\n<\/li>\n \n        <\/ul><br>\n\n       \n    <\/div>\n<\/div>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Security: Why SupaBet Earns Trust\n<\/h3>\n\n<p>\nSupaBet operates under an official license issued by a reputable regulatory authority. This ensures that the platform complies with international standards of fair play and transparency. The license confirms the legality of operations and protects players\u2019 interests by maintaining strict oversight of all processes.\n\n<\/p>\n<br>\n<p>\nTo safeguard user data, SupaBet employs advanced encryption technologies. All personal and financial information is transmitted through secure channels using SSL protocols, eliminating the risk of interception by third parties. Additionally, the platform regularly updates its security systems to meet the latest data protection requirements.\n\n<\/p>\n<br>\n<p>\nSupaBet\u2019s privacy policy strictly governs the use of customer information. Data is never shared with third parties without consent, and all transactions are conducted in compliance with applicable laws. This creates a secure environment where players can trust that their information remains confidential.\n\n<\/p>\n<br>\n<p>\nWhy does this matter? Security and transparency directly influence user trust. When players know their funds and personal details are protected, they feel confident and can focus on enjoying the game. Licensing and robust data protection are key factors that make SupaBet a reliable choice for gaming entertainment.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSupaBet Customer Support: Fast, Easy, Reliable\n\n<\/h3>\n\n<p>\nSupaBet\u2019s customer support is designed to ensure every player feels confident and comfortable. The platform offers multiple communication channels so users can choose the most convenient way to get assistance. The main options include live chat, email, and a dedicated phone line. Live chat is available 24\/7, allowing players to resolve issues in real time.\n\n<\/p>\n<br>\n<p>\nResponse times in chat are minimal, and the quality of service meets the highest standards. Support agents are polite, knowledgeable, and ready to help with any concerns \u2014 from technical issues to payment inquiries. Email is ideal for detailed requests, while the phone line provides direct interaction for urgent matters.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to language accessibility. SupaBet serves an international audience, so support is available in multiple languages, including English, Spanish, French, and more. This ensures clear and easy communication for players worldwide.\n\n<\/p>\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication Channels\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat (24\/7)\n\n<\/li>\n            <li>\u2022 \nEmail\n\n<\/li>\n            <li>\u2022 \nPhone line\n\n\n\n<\/li>\n        <\/ul>\n        <br>\n        \n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Service Highlights\n<\/h4>\n        <ul>\n            <li>\u2022 \nFast response times\n\n<\/li>\n            <li>\u2022 \nHigh-quality assistance\n\n\n<\/li>\n            <li>\u2022 \nMultilingual support\n\n<\/li>\n       \n        <\/ul>\n        <br>\n\n\n       \n    <\/div>\n<\/div>\n<br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at SupaBet",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nSupaBet Loyalty Program: Bonuses, Levels, and Benefits\n<\/h3>\n\n<p>\nThe SupaBet loyalty program is designed to reward active players with exclusive benefits and privileges. It is based on a tiered system where each new level unlocks additional bonuses and perks. Members enjoy personalized offers, higher withdrawal limits, and special cashback deals.\n\n<\/p>\n<br>\n<p>\nRegistration is automatic after creating an account and making the first deposit. Players earn loyalty points by placing bets on casino games and sports events. The more active you are, the higher your level and the more rewards you receive.\n\n<\/p>\n<br>\n<p>\nTop tiers grant access to a dedicated VIP manager, priority support, and exclusive promotions. SupaBet also offers generous cashback up to 15% and deposit bonuses for loyal customers. This system makes gaming not only exciting but also profitable, increasing trust and engagement.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions<\/h4>\n\n <ul>\n            <li>\u2022 \nCreate an account at SupaBet.\n\n<\/li>\n            <li>\u2022 \nMake your first deposit.\n\n<\/li>\n            <li>\u2022 \nStart playing and earning loyalty points.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels<\/h4>\n\n <ul>\n            <li>\u2022 \nLevel 1\u20132: access to standard promotions and 24\/7 support.\n\n<\/li>\n            <li>\u2022 \nLevel 3: cashback up to 5%, increased withdrawal limits.\n\n<\/li>\n            <li>\u2022 \nLevel 4: cashback up to 10%, personal VIP manager.\n\n<\/li>\n            <li>\u2022 \nLevel 5: cashback up to 15%, priority support, exclusive bonuses.\n\n<\/li>\n\t\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Available Bonuses<\/h4>\n\n <ul>\n            <li>\u2022 \nCashback: up to 15% on losses (max \u20ac3000).\n\n<\/li>\n            <li>\u2022 \nPersonalized offers: tailored promotions for VIP players.\n\n<\/li>\n            <li>\u2022 \nHigher limits: faster payouts and larger amounts.\n\n<\/li>\n            <li>\u2022 \nSpecial gifts: exclusive free spins and deposit bonuses.\n\n<\/li>\n\t \n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSupaBet Bonuses and Special Offers: Maximum Rewards for Players\n<\/h3>\n\n<p>\nSupaBet offers a wide range of bonuses and special promotions that make gaming more exciting and rewarding. Beyond the loyalty program, the platform regularly runs campaigns for both new and returning players. Welcome bonuses boost your starting balance, while weekly and seasonal offers add extra thrill and chances for big wins.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy deposit bonuses, free spins, and cashback rewards. SupaBet also hosts tournaments with large prize pools, where winners receive substantial cash prizes. Seasonal events, such as holiday promotions, provide extra bonuses and exclusive gifts.\n\n<\/p>\n<br>\n<p>\nThese offers are designed to make every player feel valued and increase their chances of success. SupaBet focuses on transparent conditions and easy access to bonuses, which builds trust and engagement.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main bonuses and offers<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome bonus: up to \u20ac500 + 200 free spins for new players.\n\n<\/li>\n            <li>\u2022 \nDeposit bonus: up to 100% on account top-ups.\n\n<\/li>\n            <li>\u2022 \nCashback: up to 15% on losses (max \u20ac3000).\n\n<\/li>\n            <li>\u2022 \nFree spins: up to 50 spins on popular slots.\n\n<\/li>\n\t    <li>\u2022 \nTournaments: prize pools up to \u20ac50,000 for winners.\n\n<\/li>\n\t    <li>\u2022 \nSeasonal promotions: holiday bonuses and exclusive gifts.\n\n<\/li>\n\t    <li>\u2022 \nWeekly offers: extra rewards for bets and games.\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at SupaBet: Slots, Tables, and Live Casino\n\n<\/h3>\n\n<p>\nSupaBet offers an impressive selection of games to satisfy both slot enthusiasts and fans of classic table entertainment. The catalog includes over 11,000 titles from leading providers, featuring popular slots, progressive jackpots, and exclusive live games. Slots stand out with vibrant graphics, bonus features, and the potential for big wins.\n\n<\/p>\n<br>\n<p>\nFor those who prefer strategy, SupaBet provides table games such as roulette, blackjack, baccarat, and poker in multiple variations. The live casino is a highlight, allowing players to interact with real dealers via video streaming, creating an authentic gaming atmosphere.\n\n<\/p>\n<br>\n<p>\nAdditionally, SupaBet frequently adds new games and hosts tournaments with large prize pools, making the platform attractive for players seeking variety and excitement.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Popular SupaBet Games<\/h4>\n\n <ul>\n            <li>\u2022 \nBig Bass Bonanza \u2014 fishing-themed slot with bonus rounds.\n\n<\/li>\n            <li>\u2022 \nStarburst \u2014 classic slot with bright graphics and frequent wins.\n\n<\/li>\n            <li>\u2022 \nBook of Dead \u2014 legendary slot with expanding symbols feature.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza \u2014 colorful slot with multipliers and free spins.\n\n<\/li>\n\t    <li>\u2022 \nGates of Olympus \u2014 cascading wins and multipliers up to x500.\n\n<\/li>\n\t    <li>\u2022 \nRoulette (Classic, European, VIP) \u2014 for fans of traditional gameplay.\n\n<\/li>\n\t    <li>\u2022 \nBlackjack (Spanish, VIP) \u2014 multiple versions for live dealer play.\n\n<\/li>\n\t    <li>\u2022 \nBaccarat and Poker \u2014 elegant games for strategy lovers.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at SupaBet\n\n<\/h3>\n\n<p> \nSupaBet casino offers flexible betting limits suitable for both beginners and high rollers. Minimum bets allow players to start with a small budget, while maximum bets provide opportunities for big wins. This applies to slots, table games, and live casino.\n\n<\/p><br>\n\n\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#E30E0F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac15,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Live Casino<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac20,000<\/td>\n                <\/tr>\n        \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at SupaBet Casino: Thrill and Show\n\n<\/h3>\n\n<p> \nSupaBet Casino is not just a place for gaming \u2014 it\u2019s a hub of vibrant events and entertainment. The venue regularly hosts special activities that create a festive atmosphere and make every visit unforgettable. Players can enjoy live shows, themed parties, and exclusive promotions that complement the gaming experience.\n\n<\/p>\n<br>\n<p> \nSeasonal events are a highlight at SupaBet. During holidays, the casino organizes themed programs with unique bonuses, contests, and prize draws. This is a perfect opportunity to combine excitement with fun and win extra rewards.\n\n<\/p>\n<br>\n<p> \nIn addition, SupaBet offers entertainment shows featuring professional performers, live music concerts, and DJ sets. These events create the atmosphere of a true resort where gaming blends with culture and leisure.\n\n<\/p>\n<br>\n<p> \nFor those seeking exclusive experiences, VIP nights and private events are available. They include tastings, premium drinks, and personalized service, making SupaBet an attractive choice for players who value luxury and comfort.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">SupaBet Entertainment and Events<\/h4>\n <ul>\n            <li>\u2022 \nLive shows: performances by artists and dance programs.\n\n<\/li>\n            <li>\u2022 \nMusic concerts: popular singers and DJs.\n\n<\/li>\n            <li>\u2022 \nThemed parties: holiday celebrations, seasonal promotions, prize draws.\n\n<\/li>\n            <li>\u2022 \nVIP events: private parties, premium drinks, personalized service.\n\n<\/li>\n\t    <li>\u2022 \nTournaments: gaming competitions with large prize pools.\n\n<\/li>\n\t    <li>\u2022 \nHoliday promotions: special bonuses and gifts for Christmas, Halloween, and more.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at SupaBet\n<\/h3>\n\n<p>\nSupaBet offers convenient and secure withdrawal options to ensure players receive their winnings quickly. The platform supports traditional bank transfers, modern e-wallets, and cryptocurrencies, providing flexibility for users worldwide.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets such as Skrill, Neteller, and MiFinity typically process withdrawals within 24 hours. Bank cards like Visa and MasterCard take 1\u20133 business days, while bank transfers may require up to 5 days. Cryptocurrency transactions are usually completed within a few hours, making them the fastest option.\n\n<\/p>\n<br>\n<p>\nWithdrawal limits also vary. The minimum withdrawal amount is \u20ac20, while the maximum can reach \u20ac10,000 per transaction, depending on the player\u2019s status and payment method. VIP players enjoy higher limits and priority processing.\n\n<\/p>\n<br>\n<p>\nSupaBet guarantees the security of all transactions through SSL encryption and strict identity verification, eliminating fraud risks and ensuring reliability.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal Methods and Timeframes\n<\/h4>\n            <ul>\n            <li>\u2022 \nE-wallets (Skrill, Neteller, MiFinity): up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nBank cards (Visa, MasterCard): 1\u20133 business days.\n\n<\/li>\n            <li>\u2022 \nBank transfer: up to 5 business days.\n\n<\/li>\n           <li>\u2022 \nCryptocurrencies (BTC, ETH, LTC): a few hours.\n\n\n<\/li>\n        <\/ul>\n        <br>\n\n       \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Limits\n<\/h4>\n        <ul>\n            <li>\u2022 \nMinimum withdrawal: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum withdrawal: up to \u20ac10,000 per transaction.\n\n<\/li>\n  \n  \n            <li>\u2022 \nVIP players: higher limits and faster payouts.\n\n\n<\/li>\n           \n    <\/div>\n<\/div>\n<br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need to verify my account?",
+                    "answer": "Yes, identity verification is required for security and fund protection.\n\n\n"
+                },
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, most slots are available in demo mode without risk.\n\n\n"
+                },
+                {
+                    "title": "Are there country restrictions?",
+                    "answer": "Yes, access is prohibited in certain jurisdictions. Check the list on the site.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/688",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "SupaBet"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

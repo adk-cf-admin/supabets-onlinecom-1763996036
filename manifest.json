@@ -1,0 +1,19 @@
+{
+  "name": "SupaBet",
+  "short_name": "SupaBet",
+  "theme_color": "",
+  "background_color": "#33353D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763990857-favicon-wwwsupabetscoza.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
